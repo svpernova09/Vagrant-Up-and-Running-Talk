@@ -1,4 +1,5 @@
 Vagrant: Up & Running + Basic Provisioning
+==
 
 __Who is this guy?__
 
@@ -22,8 +23,11 @@ __Provisioning__
 
 * General Overview
 * Shell Provisioning Demo
-* PuPHPet Tour
 * Provisioning with Puppet
+  * Sample Puppet Manifest
+  * Puppet is finicky
+  * Enter puPHPet
+  * puPHPet Tour
 
 __Power of Vagrant__
 
@@ -36,6 +40,7 @@ __Links:__
 
 * Vagrant: http://www.vagrantup.com
 * Vagrant Boxes: http://www.vagrantbox.es
+* Make Vagrant Up Yours: https://jtreminio.com/2013/06/make_vagrant_up_yours/
 * PuPHPet: https://puphpet.com/
 * Vagrant: Up and Running: http://shop.oreilly.com/product/0636920026358.do
 
