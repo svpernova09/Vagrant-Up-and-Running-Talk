@@ -43,4 +43,4 @@ __Provisioning:__
 
 * Puppet: https://puppetlabs.com/puppet/puppet-open-source/
 * Chef: http://docs.opscode.com/
-* Salt: https://github.com/saltstack
+* Salt: https://github.com/saltstac
