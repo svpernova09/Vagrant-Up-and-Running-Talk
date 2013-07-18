@@ -5,6 +5,7 @@ _A talk by Joe Ferguson_
 
 Give Feedback on this talk: https://joind.in/user/view/22057
 
+Slides: http://www.slideshare.net/svpernova09/vagrant-upandrunning
 
 __Links:__
 
