@@ -3,6 +3,9 @@ Vagrant Up & Running + Basic Provisioning
 
 _A talk by Joe Ferguson_
 
+Give Feedback on this talk: https://joind.in/user/view/22057
+
+
 __Links:__
 
 * Vagrant: http://www.vagrantup.com
