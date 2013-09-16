@@ -1,0 +1,12 @@
+Vagrant::Config.run do |config|
+    config.vm.box = "precise64"
+    config.vm.define "web" do |web|
+        web.vm.forward_port 80, 8080
+        web.vm.provision :shell, path: "shell-provisioning-web.sh"
+        web.vm.network :hostonly, "192.168.33.10"
+    end
+    config.vm.define "db" do |db|
+        db.vm.provision :shell, path: "shell-provisioning-mysql.sh"
+        db.vm.network :hostonly, "192.168.33.11"
+    end
+end
